@@ -1,0 +1,21 @@
+.links__card {
+    width: 100%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    box-shadow: 3px 3px 3px 3px lightgray;
+    border-radius: 5px;
+    padding: 1rem;
+    margin-bottom: 2rem;
+}
+
+.links__card h4 {
+    font-weight: 600;
+    margin-bottom: .25rem;
+}
+
+.links__card p {
+    margin-bottom: 0;
+}
+

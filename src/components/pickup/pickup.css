@@ -1,0 +1,49 @@
+/* Pickup Information */
+.pickup__info {
+    display: flex;
+    justify-content: flex-start;
+    gap: 2rem;
+}
+.pickup__info p {
+    color: #184CB4;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+
+.pickup__code {
+    display: flex;
+    align-items: center;
+}
+
+.pickup__code button {
+    border: none;
+    background-color: transparent;
+}
+
+p.copy__success {
+    color: #2B2B2B;
+    font-size: 12px;
+}
+
+/* Unlock button */
+.unlock__button {
+    margin: 2rem 0;
+    width: 100%; 
+}
+.unlock__button a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 48px;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 9999px;
+    border: none;
+    background-color: #184CB4;
+    box-shadow: 3px 2px lightgray;
+    padding: .5rem;
+    text-decoration: none;
+    color: white;
+}

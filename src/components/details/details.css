@@ -1,0 +1,36 @@
+.border {
+    margin: 1.5rem 0;
+    border: solid 0.1px #F5F5F5!important;
+}
+
+/* Delivery Details */
+.delivery__details p {
+    font-size: 12px;
+    color: #515461;
+}
+
+/* Fedex Information */
+.card__container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+.fedex__info {
+    margin: 0 1rem;
+    font-size: 12px;
+}
+
+.detail__container h4 {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.fedex__info p, address {
+    margin-bottom: 0;
+}
+
+.fedex__image {
+    width: 64px;
+    border-radius: 5px;
+}

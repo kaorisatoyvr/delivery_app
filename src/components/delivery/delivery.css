@@ -1,0 +1,21 @@
+.delivery__number {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 1rem;
+}
+
+.ad__space {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: gray;
+    background-color: #EDF2F7;
+    width: 358px;
+    height: 123px;
+    border-radius: 5px;
+}
+
+.pending__badge {
+    background-color: #FCE5E7!important;
+}

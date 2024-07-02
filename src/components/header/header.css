@@ -1,0 +1,15 @@
+header {
+    margin: 1rem 0;
+}
+
+.back__button {
+    font-size: 12px;
+    text-decoration: none;
+    color: #2B2B2B;
+    display: flex;
+    align-items: center;
+}
+
+.back__button span {
+    font-size: 24px;
+}
