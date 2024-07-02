@@ -30,7 +30,7 @@ function PickUp() {
                     </button>
                     {copySuccess && <p className="copy__success">{copySuccess}</p>}
                 </div>
-                {/* This section is very important in this screen. I changed the color of the numbers to improve accessibility because the contrast wasn't very clear. I also added a background color to make them stand out. */}
+                {/* This section is very important on this screen. I changed the color of the numbers to improve accessibility because the contrast wasn't very clear. I also added a background color to make them stand out. */}
             </div>
             <div>
                 <h4>Compartment</h4>

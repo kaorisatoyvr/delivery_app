@@ -19,3 +19,7 @@
 .pending__badge {
     background-color: #FCE5E7!important;
 }
+
+.pending__badge span {
+    font-size: 14px;
+}
