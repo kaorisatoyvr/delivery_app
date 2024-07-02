@@ -30,7 +30,7 @@ function PickUp() {
                     </button>
                     {copySuccess && <p className="copy__success">{copySuccess}</p>}
                 </div>
-                {/* This numbers are very important in this screen. I changed the color of numbers to improve accessibility because the contrast isn't very clear. */}
+                {/* This section is very important in this screen. I changed the color of the numbers to improve accessibility because the contrast wasn't very clear. I also added a background color to make them stand out. */}
             </div>
             <div>
                 <h4>Compartment</h4>
@@ -42,6 +42,7 @@ function PickUp() {
         <div className="unlock__button">
                 <a href="/">Unlock Compartment</a>
         </div>
+        {/* I also changed the color of the button which is the same color of numbers to improve accessibility. */}
         </>
     );
   }

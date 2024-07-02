@@ -3,7 +3,11 @@
     display: flex;
     justify-content: flex-start;
     gap: 2rem;
+    background-color: #EDF2F7;
+    padding: 1rem;
+    border-radius: 5px;
 }
+
 .pickup__info p {
     color: #184CB4;
     font-size: 20px;
