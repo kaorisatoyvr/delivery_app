@@ -4,9 +4,8 @@
 }
 
 /* Delivery Details */
-.delivery__details p {
-    font-size: 12px;
-    color: #515461;
+.deliver__details p {
+    font-size: 14px;
 }
 
 /* Fedex Information */
