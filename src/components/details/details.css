@@ -1,11 +1,6 @@
-.border {
-    margin: 1.5rem 0;
-    border: solid 0.1px #F5F5F5!important;
-}
-
 /* Delivery Details */
 .deliver__details p {
-    font-size: 14px;
+    font-size: 12px;
 }
 
 /* Fedex Information */
